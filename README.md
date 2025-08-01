@@ -34,15 +34,6 @@ The result is stored in a DynamoDB table and returned to the user via an API.
 
 
 
-\## 🚀 Live Demo
-
-
-
-👉 https://dev.d1wvmguy6og24x.amplifyapp.com/
-
----
-
-
 
 \## 📁 File Structure
 
